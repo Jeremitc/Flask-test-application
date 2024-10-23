@@ -1,0 +1,19 @@
+/*!
+ * Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license (Commercial License)
+ * Copyright 2023 Fonticons, Inc.
+ */
+:root, :host {
+  --fa-style-family-classic: 'Font Awesome 6 Pro';
+  --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Pro'; }
+
+@font-face {
+  font-family: 'Font Awesome 6 Pro';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url(/assets/fontawesome/webfonts/fa-solid-900-337b43dc289b0baee31d225061096375c5ca23bbc6771aeebd562a018dca668c.woff2) format("woff2"), url(/assets/fontawesome/webfonts/fa-solid-900-f2d0e9291fdb7e27a86bf81bc04cab55ba19221acb9a63de7cbca49962f42dbb.ttf) format("truetype"); }
+
+.fas,
+.fa-solid {
+  font-weight: 900; }
